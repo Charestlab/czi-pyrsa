@@ -2,8 +2,9 @@
 Documents for pyrsa CZI EOSS grant application
 
 
-### 4. Proposal Purpose:
+*4. Proposal Purpose: Limit to one sentence (maximum of 255 characters, including spaces)*
 
-## Limit to one sentence (maximum of 255 characters, including spaces)
+## Jump-start pyRSA: the python library for Representational Similarity Analysis
 
-Continue the maintenance, documentation and development of the python representational similarity analysis toolbox (pyRSA).
+Support for the community that is building the technology that allows scientists to relate data across disciplines and formats
+
