@@ -13,6 +13,7 @@ complex -> matlab code -> python more popular -> only supports a subset of optio
 from four different labs in three countries when we got together summer of 2019. It was quickly decided that a python package was needed and that it should set example of how to proper. This set off an initial burst of contributions from the workshop participants but since -> as-needed-basis without the needs of the community -> loss of integration
 
 - what is needed: professionalize, technical debt, documentation, UX, inclusiveness, continuous intregration
-- pay time of developer, community organization, outreach
+
+With CZI EOSS funding, we can pay one or a few contributors to focus on the package and address these needs. It would also enable us to better organize the community through events, improve uptake with outreach activities, and diversify the community by sponsoring individuals from a minority background.  
 
 My laboratory and several others around the world are at the forefront of the open-source and community driven development of algorithms underlying RSA (see our GitHub repository at http://github.com/rsagroup/pyrsa). With this proposal, we will continue to maintain the pyRSA Python library for representational similarity analysis applied to medical imaging data, behavioural data and computational models, and continue developing novel representational metrics to construct RDMs, and to compare RDMs between imaging modalities, people, species, models etc. Key to the success of this library will be to extend our existing documentation framework (https://rsa3.readthedocs.io/en/latest/), provide additional comprehensive jupyter-notebook tutorials, and provide additional compatibilities with deep learning frameworks including tensorflow and pytorch.   
